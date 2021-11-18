@@ -17,8 +17,8 @@ Structure of the feature extraction can be done with:
 1.	Convolutional Layer
 2.	Genetic Algorithms
 3. Histopathological features
-4.
-And other structure. Each of this procedure helps to extract potential features which then can be used for classification. Then these extracted features will go throw the model. The proposed model can be SVM, Bayesian network and deep learning. Deep learning model here can be with memory structure like RNN, GRU or LSTM. Other type of deep learning model which can be used here is different type of CNN like VGG16, VGG19, Resnet51, GoogLeNet, Mobile network and etc. Product architecture will be the model developing and testing developed model for the work.  
+
+ Each of this procedure helps to extract potential features which then can be used for classification. Then these extracted features will go throw the model. The proposed model can be SVM, Bayesian network and deep learning. Deep learning model here can be with memory structure like RNN, GRU or LSTM. Other type of deep learning model which can be used here is different type of CNN like VGG16, VGG19, Resnet51, GoogLeNet, Mobile network and etc. Product architecture will be the model developing and testing developed model for the work.  
 
 # User Story
 User story will get divided to 2 phase: 1. Doctors 2. Patients.
