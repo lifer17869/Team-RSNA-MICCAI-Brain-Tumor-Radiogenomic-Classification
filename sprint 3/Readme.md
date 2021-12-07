@@ -6,7 +6,9 @@ In this step, we will introduce some detail of both models and train our dataset
 More detail introduction are showed in the sprint3 presentation slides. Also, our code files are uploaded in each file.
 
 ## Resnet
+Detail see: https://github.com/lifer17869/Team-RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification/tree/main/sprint%203/ResNet%20Model
 ![canvas](https://user-images.githubusercontent.com/59852184/144943595-785244c8-8b98-40c8-973b-dd31251aab35.png)
 
 ## Efficientnet
+Detail see: https://github.com/lifer17869/Team-RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification/tree/main/sprint%203/EfficientNet-PytTorch-3D
 ![canvas](https://user-images.githubusercontent.com/59852184/144943657-f6d53b81-284a-4d9c-8d79-39cbac8bf6d9.png)
