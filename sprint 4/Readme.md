@@ -9,3 +9,6 @@ Evaluation details of both methods are shown in each files.
 Detail see : https://github.com/lifer17869/Team-RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification/tree/main/sprint%204/Efficientnet_Test  
 
 ![Screenshot from 2021-12-06 18-37-45](https://user-images.githubusercontent.com/59852184/144939755-c4ee399d-5328-42c8-b243-1301779267ac.png)
+
+## Model Selection
+Accoring to Rahaf's record the ResNet model needs nearly 10 hours to train the model, and the efficientNet modle Jiawei chose only takes a few hours. The AUC value of efficientNet is also bigger than ResNet's. Turns out we will select efficientNet as our final model.
