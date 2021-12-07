@@ -6,4 +6,6 @@ Evaluation details of both methods are shown in each files.
 ![Screenshot from 2021-12-06 18-35-37](https://user-images.githubusercontent.com/59852184/144939617-55555cd0-b8af-4804-87a8-eb77e3ea9334.png)
 
 ## ROC of Efficientnet
+Detail see : https://github.com/lifer17869/Team-RSNA-MICCAI-Brain-Tumor-Radiogenomic-Classification/tree/main/sprint%204/Efficientnet_Test  
+
 ![Screenshot from 2021-12-06 18-37-45](https://user-images.githubusercontent.com/59852184/144939755-c4ee399d-5328-42c8-b243-1301779267ac.png)
