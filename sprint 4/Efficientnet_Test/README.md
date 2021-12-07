@@ -88,7 +88,7 @@ Validation ensemble AUC: 0.6055
 We found that the average result has the maximum AUC from now on.  
 ![Screenshot from 2021-12-06 18-59-41](https://user-images.githubusercontent.com/59852184/144941697-9768eed6-6978-4960-852c-4dff9a2ac1ab.png)
 
-In order to have a much better result, we delected the T1w-e1-loss0.706-auc0.500.pth model and try to predict by use other three models.
+In order to have a much better result, we dele the T1w-e1-loss0.706-auc0.500.pth model and try to predict by use other three models.
 Finally, it got the same result of the previous one.  
 Predict: FLAIR-e5-loss0.685-auc0.576.pth FLAIR (50, 8)  
 Predict: T1wCE-e4-loss0.690-auc0.587.pth T1wCE (50, 8)  
