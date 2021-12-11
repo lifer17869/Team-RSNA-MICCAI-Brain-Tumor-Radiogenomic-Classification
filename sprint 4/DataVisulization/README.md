@@ -1,5 +1,5 @@
 # Results
-
+These four animation are four types of MRI scan - FLAIR, T1w, T1wCE, T2w
 ![FLAIR](https://user-images.githubusercontent.com/90346002/145661773-0765f50b-4463-47ab-aa6f-eb2241606be6.gif)
 
 ![T1w](https://user-images.githubusercontent.com/90346002/145661780-c823d881-1178-4af2-a916-467664b306dd.gif)
